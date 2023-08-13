@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Biidama
+  - Candle
+  - Snow
+  - Normal
+  - Water
+  - Switch
+  - Ice
+  - Goal
+  - Rise
+  - kago
+  - Currot
+  - Meet
+  - Curryru
+  - Potato
+  - Onion
+  - Sirataki
+  - SoySauce
+  - MoziD
+  - LoveLetter
+  - RobotHand
+  - ArmThreshold1
+  - RedBook
+  - SprkringDrink
+  - Bear
+  - Yogore
+  - Undefined
+  - Kirakira
+  - MoyaMoya
+  - Dangan
+  - bear
+  - Enemy
+  - NinjaEnemy
+  - ArrowEnemy
+  - Mato
+  - RedCapsel
+  - Coin
+  - BlueCapsel
+  - GreenCapsel
+  - YellowCapsel
+  - Hituzi
+  - Azarasi
+  - Hiyoko
+  - WanageRed
+  - WanageGreen
+  - WanageBlue
+  - Wanage
+  - Fruite
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wanage
+  - WanageGoal
+  - Floor
+  - Duck
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 940346525
+    locked: 0
+  - name: Background2
+    uniqueID: 2139532783
+    locked: 0
+  - name: Ground
+    uniqueID: 2774195871
+    locked: 0
+  - name: Flag
+    uniqueID: 2183257909
+    locked: 0
+  - name: Ball
+    uniqueID: 4155896721
+    locked: 0
+  - name: Cup
+    uniqueID: 4106847649
+    locked: 0
+  - name: Yagirusi
+    uniqueID: 555511531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Kago
+    uniqueID: 441800681
+    locked: 0
+  - name: Book
+    uniqueID: 2829680149
+    locked: 0
+  - name: Drink
+    uniqueID: 1934593371
+    locked: 0
+  - name: Stuffet
+    uniqueID: 234904377
+    locked: 0
+  - name: Baketu
+    uniqueID: 1780812981
+    locked: 0
+  - name: WatameBag
+    uniqueID: 2775595467
+    locked: 0
+  - name: Floor
+    uniqueID: 4157464225
+    locked: 0
+  - name: Duck
+    uniqueID: 106116345
+    locked: 0
+  - name: Wanage
+    uniqueID: 3363422605
+    locked: 0
+  - name: WanageGoal
+    uniqueID: 2390667027
+    locked: 0
+  - name: Effect
+    uniqueID: 1241614803
+    locked: 0
